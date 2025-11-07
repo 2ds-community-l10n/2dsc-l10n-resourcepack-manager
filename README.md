@@ -1,0 +1,1 @@
+# 2dsc-l10n-resourcepack-manager
